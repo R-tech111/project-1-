@@ -1,2 +1,2 @@
-# project-1-
-T-rex game offline
+# Project-1-
+T-rex game offline by Rohith
